@@ -1,0 +1,5 @@
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Debug\FixToLuaNamespaces.exe.config
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Debug\FixToLuaNamespaces.exe
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Debug\FixToLuaNamespaces.pdb
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\obj\Debug\FixToLuaNamespaces.exe
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\obj\Debug\FixToLuaNamespaces.pdb

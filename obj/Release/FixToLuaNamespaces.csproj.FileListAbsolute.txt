@@ -1,0 +1,6 @@
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Release\FixToLuaNamespaces.exe.config
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Release\FixToLuaNamespaces.exe
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\bin\Release\FixToLuaNamespaces.pdb
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\obj\Release\FixToLuaNamespaces.exe
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\obj\Release\FixToLuaNamespaces.pdb
+c:\users\raloi\documents\visual studio 2017\Projects\FixToLuaNamespaces\obj\Release\FixToLuaNamespaces.csprojResolveAssemblyReference.cache
